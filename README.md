@@ -37,16 +37,3 @@ $ activate cnn-idade-genero-env
 ```
 $ jupyter notebook
 ```
-
-## Estrutura
-
-O repositório está organizado da seguinte maneira 
-
-|Pasta/Arquivo|Descrição|
-|---|---|
-|data/|Contém apenas algumas arquivos .TXT que fazem referência as imagens do banco, nessa pasta você deve baixar e extrair o dataset/|
-|images/|Algumas imagens que são utilizdas no repositório (NÃO são as imagens do banco)|
-|models/|Modelos salvos no Keras|
-|serializer/|Objetos pré-processados que serão utilizados na entrada da nossa rede|
-|txt/|Correções nos arquivos .TXT originais do banco|
-|Pre_processing| Rode todas as células desse notebook para gerar os arquivos de entrada da rede|
