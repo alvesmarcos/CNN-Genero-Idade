@@ -1,0 +1,85 @@
+### Introdução
+
+Definicao do problema
+
+Objetivo geral
+
+Objetivo especificos
+
+
+### Conceitos gerais e revisão da literatura
+
+Redes Neurais Artificias
+
+Função de Ativação
+
+Função ReLU
+
+Rede Neural de Multicamadas
+
+Função Softmax
+
+Codificação One-hot
+
+Taxa de aprendizagem
+
+Função de Custo
+
+Cross Entropy
+
+Métododo Gradiente Descendente
+
+Overfitting e Underfitting
+
+Aprendizagem profunda
+
+Regularização
+
+Dropout
+
+Batch Normalization
+
+Otimizadores
+
+Rede Neural Convolucional
+
+Camada Convolucional
+
+Stride
+
+Padding
+
+Camada Pooling
+
+Camada Densamente Conectada
+
+Metriz confusao
+
+### Metodologia
+
+Materiais
+
+Keras
+
+Base de Dados
+
+Pre processamento
+
+Genero
+
+Idade
+
+Codificação one-hot
+
+Conjunto de Dados de Treinamento e Teste
+
+Treinamento da Rede
+
+Arquitetura
+
+Hiper-parˆametros
+
+
+### Apresentação e análise dos resultados
+
+Testes com Arquitetura
